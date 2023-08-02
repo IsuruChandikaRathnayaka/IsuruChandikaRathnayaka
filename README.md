@@ -20,9 +20,5 @@
   <img src="https://visitcount.itsvg.in/api?id=Isuru&label=999k&color=4&icon=1&pretty=false" />
 </a><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
