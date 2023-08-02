@@ -18,7 +18,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Isuru&label=999k&color=4&icon=1&pretty=false" />
-</a>
+</a><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
