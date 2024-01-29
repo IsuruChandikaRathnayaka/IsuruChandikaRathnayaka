@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&random=false&width=435&lines=Hello+!+My+name+is+Isuru+Rathnayaka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&random=false&width=435&lines=Hello!+My+name+is+Isuru+)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 I’m currently studying in university of Westminster<br>🌱 I’m currently learning React.js<br>💬 Ask me about anything isuru.20221279@iit.ac.lk<br>⚡ Fun fact just kidding
 
