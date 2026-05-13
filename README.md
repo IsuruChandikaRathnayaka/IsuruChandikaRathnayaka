@@ -1,30 +1,220 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&random=false&width=435&lines=Hello!+My+name+is+Isuru+)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Isuru</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuruchandikarathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="isuruchandikarathnayaka" /> </p>
+# 🚀 ISURU CHANDIKA
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isuruchandikarathnayaka" alt="isuruchandikarathnayaka" /></a> </p>
+### Full Stack Developer • Software Engineer • SaaS Builder • Cloud Engineering Learner
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF4D6D&center=true&vCenter=true&random=false&width=850&lines=Building+Modern+Software+Solutions;Full+Stack+Developer+from+Sri+Lanka;React+%7C+Node.js+%7C+Java+%7C+Python;Developing+AI+Powered+Applications;Creating+Scalable+SaaS+Platforms;Cloud+Engineering+Learner" />
 
-- Full Stack Developer 
+<br/>
 
-- 📫 How to reach me **isuruchandika321@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=isuruchandikarathnayaka&label=Profile+Views&color=ff4d6d&style=for-the-badge" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isuru rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru rathnayaka" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:22853789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22853789" height="30" width="40" /></a>
-<a href="https://fb.com/isuru rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isuru rathnayaka" height="30" width="40" /></a>
-<a href="https://instagram.com/isuru rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuru rathnayaka" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruchandikarathnayaka&show_icons=true&locale=en&layout=compact" alt="isuruchandikarathnayaka" /></p>
+# 💫 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuruchandikarathnayaka&show_icons=true&locale=en" alt="isuruchandikarathnayaka" /></p>
+```yaml
+Name: Isuru Chandika
+Role: Full Stack Developer & Software Engineer
+Location: Sri Lanka
+Focus: SaaS Applications, AI Solutions & Modern Web Apps
+Learning: Cloud Engineering & Scalable System Design
+Passion: Creating High Quality Digital Experiences
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuruchandikarathnayaka&" alt="isuruchandikarathnayaka" /></p>
+<br/>
+
+- 💻 Building modern full stack web & software applications
+- 🚀 Creating scalable SaaS platforms and business solutions
+- 🤖 Exploring AI-powered applications and intelligent systems
+- ☁️ Cloud Engineering learner focused on scalable infrastructure
+- ⚡ Passionate about performance, scalability, and clean architecture
+- 🎨 Designing premium modern UI/UX experiences
+- 🧠 Continuously learning and improving engineering skills
+- 📫 Reach me: **isuruchandika321@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/isuruchandikarathnayaka">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://facebook.com">
+  <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+</div>
+
+---
+
+# ⚒️ Tech Stack
+
+<div align="center">
+
+## 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite" />
+
+<br/><br/>
+
+## ⚙️ Backend & Software Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php" />
+
+<br/><br/>
+
+## 🤖 AI & Emerging Technologies
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+<br/><br/>
+
+## 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp" />
+
+<br/><br/>
+
+## ☁️ DevOps & Cloud Learning
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,netlify" />
+
+<br/><br/>
+
+## 🎨 Design & Tools
+
+<img src="https://skillicons.dev/icons?i=figma,postman,vscode" />
+
+</div>
+
+---
+
+# 🚀 What I Build
+
+<div align="center">
+
+| 💻 Software Applications | 🌐 SaaS Platforms | 🤖 AI Solutions | ⚡ Backend Systems |
+|---|---|---|---|
+| Java & Python Apps | Scalable Business Platforms | AI Integrated Features | APIs & Microservices |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🎨 Premium UI/UX | ☁️ Cloud Learning | 📱 Responsive Apps | 🔒 Secure Systems |
+|---|---|---|---|
+| Modern Interfaces | Infrastructure Concepts | Mobile Friendly | Clean Architecture |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isuruchandikarathnayaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuruchandikarathnayaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruchandikarathnayaka&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isuruchandikarathnayaka&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=isuruchandikarathnayaka&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```txt
+✔ Building Modern SaaS Applications
+✔ Creating AI Powered Software Solutions
+✔ Developing Scalable Backend Systems
+✔ Improving Cloud Engineering Knowledge
+✔ Contributing to Modern Software Development
+✔ Designing Premium User Experiences
+```
+
+---
+
+# 💡 Engineering Interests
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Engineering))
+    Full Stack Development
+    SaaS Platforms
+    AI Applications
+    Java Software Development
+    Python Engineering
+    Cloud Engineering
+    Backend Architecture
+    UI/UX Design
+    System Scalability
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Developer Quote
+
+> "Software is not just about writing code — it's about solving real problems with creativity and engineering."
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ Thanks for visiting my profile!
+
+### 🚀 Open to collaborations, freelance projects, and innovative ideas.
+
+</div>
